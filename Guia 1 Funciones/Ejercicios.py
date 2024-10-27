@@ -4,7 +4,7 @@ def f(x):
 imagen = f(50)
 print(imagen)
 
-#Basico para hacer un ejercicion en matematica
+#Basico para hacer un ejercicio en matematica
 import numpy as np
 from scipy.optimize import fsolve
 

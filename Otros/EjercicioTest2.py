@@ -47,7 +47,7 @@ def g(t):
 def f(t):
     return 10*t
 
-t = np.arange(0,20,0.5) 
+t = np  .arange(0,20,0.5) 
 
 plt.plot(t, g(t), label = 'g(t)', color='purple')
 plt.plot(t, f(t), label = 'f(t)', color='red')
